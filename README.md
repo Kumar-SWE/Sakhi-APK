@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/username/repo/main/logo-white.svg">
-  <img alt="Sakhi Logo" src="https://raw.githubusercontent.com/username/repo/main/logo-black.svg" width="120">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kumar-SWE/Sakhi-APK/main/assets/logo-white.svg">
+  <img alt="Sakhi Logo" src="https://raw.githubusercontent.com/Kumar-SWE/Sakhi-APK/main/assets/logo-black.svg" width="140">
 </picture>
 
 # Sakhi 
