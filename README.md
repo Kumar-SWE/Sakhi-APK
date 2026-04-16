@@ -14,7 +14,7 @@
 
 **Ending a decade of medical dismissal through edge-computed evidence.**
 
-[Download .APK (v1.0-Beta)](https://github.com/yourlink/releases) • [Report Issue](https://github.com/yourlink/issues)
+[Download .APK (v1.0-Beta)](https://github.com/Kumar-SWE/Sakhi-APK/releases/tag/Sakhi) • [Report Issue](https://github.com/yourlink/issues)
 
 ---
 </div>
