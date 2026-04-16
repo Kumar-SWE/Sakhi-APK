@@ -32,7 +32,7 @@ Built for high-integrity performance and data sovereignty.
 * **Hardened:** Obfuscated binary to prevent unauthorized telemetry or tampering.
 
 ### 📥 **Getting Started**
-1. Download the latest `.apk` from the [Releases](https://github.com/yourlink/releases) page.
+1. Download the latest `.apk` from the [Releases](https://github.com/Kumar-SWE/Sakhi-APK/releases/tag/Sakhi) page.
 2. Enable "Install from Unknown Sources" on your Android device.
 3. Start logging. Your data stays yours forever.
 
